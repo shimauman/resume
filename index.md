@@ -262,11 +262,6 @@
     - 議事録はチャット上でリアルタイムでまとめ、不参加書も含めて確認できるように。
 
 ## リンク集
-#### [日々学んだことのまとめtil(today i learned)](https://shimauman.github.io/til/)
-https://shimauman.github.io/til/
-
-#### [個人用GitHubアカウント](https://github.com/shimauman?tab=repositories)
-https://github.com/shimauman?tab=repositories
-
-#### [個人活動用WEBサイト](https://shimauman.netlify.app/)
-https://shimauman.netlify.app/
+- **日々学んだことのまとめtil(today i learned)** : https://shimauman.github.io/til/
+- **個人用GitHubアカウント** : https://github.com/shimauman?tab=repositories
+- **個人活動用WEBサイト** : https://shimauman.netlify.app/
