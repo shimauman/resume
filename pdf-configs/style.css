@@ -1,0 +1,40 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
+body {
+  font-size: 12px;
+  font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+table {
+  font-size: 11px;
+  border-collapse: collapse;
+}
+
+h1,
+h2 {
+  border-bottom: 0.5px solid #f2f2f2;
+  padding-bottom: 5px;
+}
+
+h3 {
+  padding-bottom: -2px;
+}
+
+td,
+th {
+  border: 0.5px solid #ddd;
+  padding: 3px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+th {
+  text-align: left;
+  background-color: #ddd;
+}
